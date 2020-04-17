@@ -1,0 +1,48 @@
+.body {
+  background-color: rgb(255, 252, 239);
+  padding: 10px;
+}
+
+.table {
+  font-size: 1.2em;
+  padding: 10px;
+  font-family: comic sans MS;
+}
+.list {
+  border-style: groove;
+  border-color: rgb(248, 24, 24);
+  border-width: 1em;
+  padding: 15px;
+}
+.a {
+  font-size: 1.3em;
+  padding: 10px;
+  font-family: comic sans MS;
+  color: rgb(2, 104, 48);
+}
+.a:hover {
+  font-size: 1.3em;
+  padding: 10px;
+  font-family: comic sans MS;
+  color: rgb(35, 226, 233);
+}
+
+.h1 {
+  color: rgb(15, 185, 228);
+  margin-top: 20px;
+  font-family: comic sans MS, sans-serif;
+}
+
+.p {
+  color: rgb(0, 0, 0);
+  font-family: comic sans MS, sans-serif;
+  font-size: 1.2em;
+}
+
+.reporting {
+  color: rgb(9, 214, 26);
+  font-family: comic sans MS, sans-serif;
+  font-size: 2em;
+}
+
+
